@@ -7,6 +7,6 @@
 <title>Services JSP File</title>
 </head>
 <body>
-<h1>This is service jsp file</h1>
+<h1>This is service jsp page</h1>
 </body>
 </html>
