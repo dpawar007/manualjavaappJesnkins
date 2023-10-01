@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Insert title here</title>
+<title>About JSP File</title>
 </head>
 <body>
 <h1> This is about page </h1>
